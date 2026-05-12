@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Contacto";
+}
+@model Proyecto_Final.Models.Contacto
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+<section class="header-tienda">
+    <h1>Contáctanos</h1>
+    <p>Estamos listos para ayudarte a elegir el mueble ideal para tu espacio.</p>
+</section>
+
+<div class="contacto-wrapper">
+    <div class="contacto-grid">
+        <div class="contacto-info">
+            <div class="card p-4">
+                <h3 class="text-center mb-4" style="font-family: 'Playfair Display', serif">Información de Contacto</h3>
+                <div class="item-contacto"><i class="bi bi-whatsapp" ></i><div><strong>WhatsApp</strong><a href="https://wa.me/528991008827" target="_blank"><span>8991008827</span></a></div></div>
+                <div class="item-contacto"><i class="bi bi-envelope" ></i><div><strong>Correo</strong><span>vegakevin221@gmail.com</span></div></div>
+                <div class="item-contacto"><i class="bi bi-geo-alt"></i><div><strong>Ubicación</strong><span>Reynosa, Tamaulipas, México</span></div></div>
+                <div class="item-contacto"><i class="bi bi-clock"></i><div><strong>Horario</strong><span>Lunes a Sábado: 9:00 AM - 8:00 PM</span><span>Domingo: 10:00 AM - 6:00 PM</span></div></div>
+            </div>
+
+            <div class="card p-4 mt-4 text-center">
+                <h3 class="mb-3" style="font-family: 'Playfair Display', serif">Síguenos</h3>
+                <div class="redes">
+                    <a href="https://www.facebook.com/UATmx/?locale=es_LA" target="_blank" class="boton-secundario">Facebook <i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank" class="boton-secundario">Instagram <i class="bi bi-instagram"></i></a>
+                    <a href="https://www.tiktok.com/" target="_blank" class="boton-secundario">TikTok <i class="bi bi-tiktok"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="contacto-form">
+            <div class="card p-4">
+                <h3 class="text-center mb-4" style="font-family: 'Playfair Display', serif">Cuéntanos tu idea</h3>
+                <p class="texto-descripcion" style="text-align:center">Solicita información, cotizaciones o recomendaciones para tu espacio.</p>
+                @using (Html.BeginForm())
+                {
+                    <div class="mb-3"><label>Nombre</label>@Html.TextBoxFor(m => m.NombreCompleto, new { @class = "form-control input-pastel" })</div>
+                    <div class="mb-3"><label>Correo electrónico</label>@Html.TextBoxFor(m => m.Correo, new { @class = "form-control input-pastel" })</div>
+                    <div class="mb-3"><label>Asunto</label>@Html.DropDownListFor(m => m.Asunto, new SelectList(new[] { "Atención al cliente", "Cotización de mueble", "Consulta sobre productos", "Pedido personalizado", "Información sobre entregas", "Seguimiento de pedido", "Modificación de pedido", "Cancelación de pedido", "Sugerencias o comentarios", "Facturación", "Otros" }), "Seleccione una opción...", new { @class = "form-control input-pastel" })</div>
+                    <div class="mb-3"><label>Mensaje</label>@Html.TextAreaFor(m => m.Mensaje, new { @class = "form-control input-pastel", rows = 4 })</div>
+                    <button type="submit" class="boton w-100"><i class="bi bi-send"></i> Enviar Mensaje</button>
+                }
+                @if (ViewBag.Mensaje != null)
+                {
+                    <div class="mt-3 p-3 mensaje-contacto @(ViewBag.TipoMensaje == "ok" ? "mensaje-ok" : "mensaje-error")">@ViewBag.Mensaje</div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="card p-4 mt-4 text-center">
+        <i class="bi bi-house-gear" style="font-size: 28px; color: var(--sage);"></i>
+        <div><strong style="color: var(--sage); margin: 22px 0 10px; font-size: 1.45rem; font-family: 'Playfair Display' , serif"> ¿Buscas un mueble personalizado? </strong><br /><br />Contáctanos por WhatsApp para cotizaciones y soluciones a medida.</div>
+    </div>
+</div>
+
+

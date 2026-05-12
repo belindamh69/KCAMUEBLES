@@ -1,0 +1,51 @@
+﻿
+body {
+	background-color: #ECE0DA;
+}
+
+/* TITULOS */
+.titulo {
+	color: #7E8C69;
+}
+
+.subtitulo {
+	color: #555;
+}
+
+/* DESTACADO */
+.destacado {
+	background: white;
+	padding: 25px;
+	border-radius: 20px;
+}
+
+.img-destacado {
+	border-radius: 20px;
+}
+
+/* CARDS */
+.card-pro {
+	background: white;
+	padding: 15px;
+	border-radius: 20px;
+	text-align: center;
+	transition: 0.3s;
+}
+
+	.card-pro:hover {
+		transform: translateY(-5px);
+	}
+
+	.card-pro img {
+		border-radius: 15px;
+		margin-bottom: 10px;
+	}
+
+/* BOTONES */
+.btn-ver {
+	background-color: #7E8C69;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 20px;
+}

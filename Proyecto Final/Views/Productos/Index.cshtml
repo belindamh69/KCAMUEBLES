@@ -1,0 +1,526 @@
+﻿@{
+    ViewData["Title"] = "Tienda";
+}
+
+<section class="header-tienda">
+    
+    <h1>Nuestra Tienda</h1>
+    <p>Elige tus productos favoritos. Todo hecho con amor y con una presentacion delicada.</p>
+</section>
+
+<div class="container-tienda">
+
+    <aside class="categorias-tienda">
+        <h3>Categorias</h3>
+        <ul id="menuCategorias">
+            <li class="activo" data-categoria="Pasteles">🎂 Pasteles</li>
+            <li data-categoria="Donas">🍩 Donas</li>
+            <li data-categoria="Gelatinas">🍮 Gelatinas</li>
+            <li data-categoria="Galletas">🍪 Galletas</li>
+            <li data-categoria="Regalos">🎁 Regalos</li>
+            <li data-categoria="Brownies">🧁 Brownies</li>
+            <li data-categoria="Catering">🍽️ Catering</li>
+            <li data-categoria="Postres saludables">🍓 Postres saludables</li>
+        </ul>
+    </aside>
+
+    <main class="productos">
+        <h2 id="tituloCategoria">Pasteles</h2>
+
+        <div class="grid-productos">
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/pArtesanal.png" alt="Pastel artesanal tipo Naked Cake">
+                <h4>Pastel artesanal tipo "Naked Cake"</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/pArtesanal.png")"
+                        data-titulo="Pastel artesanal tipo &quot;Naked Cake&quot;"
+                        data-descripcion="Pastel artesanal tipo Naked Cake con dos capas de pan esponjoso, relleno de crema batida y decorado con fresas frescas, arándanos y una fina lluvia de azúcar glass. Presentado en un ambiente de cafetería rústica y moderna."
+                        data-mostrarprecio="true"
+                        data-precio="$450.00 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/monocro.png" alt="Pasteles diseño Naked y monocromático">
+                <h4>Pasteles diseño &quot;Naked&quot; y monocromático</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/monocro.png")"
+                        data-titulo="Pasteles diseño &quot;Naked&quot; y monocromático"
+                        data-mostrarprecio="false"
+                        data-descripcion="Exhibición de pasteles artesanales con diseños modernos y sabores sofisticados, que incluyen técnicas creativas, decoraciones elegantes y versiones reinventadas de clásicos como Tres Leches, Carrot Cake y limón.<div class='descripcion-precios'><strong>Precios disponibles:</strong></div><ul><li>Rebanada en sabores especiales: $120 MXN</li><li>Presentación completa: $850 MXN</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/PastelM.png" alt="Mini pasteles">
+                <h4>Mini pasteles e individuales</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/PastelM.png")"
+                        data-titulo="Mini pasteles e individuales"
+                        data-descripcion="Elegante exhibición en Sweet Love, ideal para regalos o antojos. Incluye un mini pastel tipo drip cake con rosas y frutos rojos, acompañado de cupcakes gourmet con decoración minimalista y textura cremosa, mostrando opciones individuales y para grupos pequeños.<div class='descripcion-precios'><strong>Presentaciones disponibles:</strong></div><ul><li>Mini pastel (2-4 personas): $160 - $233 MXN</li><li>Rebanada individual / Cupcake: $50 - $120 MXN</li><li>Cupcakes decorados (docena): $180 - $350 MXN</li></ul>"
+                        data-mostrarprecio="false">
+                    Ver detalles
+                </button>
+            </div>
+            
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/PastelZ.png" alt="Pastel de zanahoria">
+                <h4>Pastel de zanahoria</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/PastelZ.png")"
+                        data-titulo="Pastel de zanahoria"
+                        data-mostrarprecio="false"
+                        data-descripcion="Un clásico reconfortante de Sweet Love. Nuestro pastel de zanahoria destaca por su miga húmeda y especiada con canela y nuez moscada, con nuez pecana crujiente. Relleno y cubierto con frosting de queso crema, en una presentación de dos pisos con detalles botánicos que combinan lo casero y lo gourmet.<div class='descripcion-precios'><strong>Presentaciones disponibles:</strong></div><ul><li>Mini (2-4 personas): $180 - $250 MXN</li><li>Mediano (8-10 personas): $420 - $580 MXN</li><li>Grande (15-20 personas): $650 - $850 MXN</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/Pchocolate.png" alt="Pastel de chocolate">
+                <h4>Pastel de chocolate</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Pchocolate.png")"
+                        data-titulo="Pastel de chocolate"
+                        data-mostrarprecio="true"
+                        data-descripcion="Bizcocho de cacao intenso con ganache de chocolate semiamargo."
+                        data-precio="$350 - $520 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/PVai.png" alt="Pastel de vainilla">
+                <h4>Pastel de vainilla</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/PVai.png")"
+                        data-titulo="Pastel de vainilla"
+                        data-mostrarprecio="true"
+                        data-descripcion="Clásico bizcocho de vainilla de Papantla con buttercream ligero."
+                        data-precio="$320 - $480 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/PtresLeches.png" alt="Pastel de tres leches">
+                <h4>Pastel de tres leches</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/PtresLeches.png")"
+                        data-titulo="Pastel de tres leches"
+                        data-mostrarprecio="true"
+                        data-descripcion="Pan esponjoso bañado en nuestra mezcla secreta de tres leches y canela."
+                        data-precio="$380 - $550 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/Pfresa.png" alt="Pastel de fresa">
+                <h4>Pastel de fresa</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Pfresa.png")"
+                        data-titulo="Pastel de fresa"
+                        data-mostrarprecio="true"
+                        data-descripcion="Capas de vainilla con fresas naturales y crema batida fresca."
+                        data-precio="$400 - $580 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/ChocoFlan.png" alt="Chocoflan">
+                <h4>Chocoflan</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/ChocoFlan.png")"
+                        data-titulo="Chocoflan"
+                        data-mostrarprecio="false"
+                        data-descripcion="Conocido como Pastel Imposible, en Sweet Love lo elevamos con una receta especial. Combina bizcocho de chocolate húmedo con flan de vainilla suave, bañado en caramelo artesanal y decorado con nuez pecana, logrando un contraste clásico y reconfortante.<div class='descripcion-precios'><strong>Presentaciones disponibles:</strong></div><ul><li>Mediano (8-10 personas): $350 - $480 MXN</li><li>Grande (15-20 personas): $550 - $750 MXN</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+
+
+            <div class="card producto-card producto" data-categoria="Pasteles">
+                <img src="~/imagenes/PayQueso.png" alt="Pay de queso">
+                <h4>Pay de queso</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/PayQueso.png")"
+                        data-titulo="Pay de queso"
+                        data-mostrarprecio="false"
+                        data-descripcion="Un clásico de Sweet Love con un toque especial. Este pay de queso destaca por su textura cremosa y densa, con un ligero toque cítrico de limón, sobre una base crujiente de galleta. Decorado con frutos rojos frescos y menta, ofrece un equilibrio perfecto entre cremosidad y frescura.<div class='descripcion-precios'><strong>Presentaciones disponibles:</strong></div><ul><li>Mini (2-4 personas): $180 - $250 MXN</li><li>Mediano (8-10 personas): $420 - $580 MXN</li><li>Grande (15-20 personas): $650 - $850 MXN</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Donas" style="display:none;">
+                <img src="~/imagenes/Dona1.png" alt="Dona clásica azúcar canela">
+                <h4>Clasica azucar y canela</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Dona1.png")"
+                        data-titulo="Clasica azucar y canela"
+                        data-mostrarprecio="true"
+                        data-descripcion="Azúcar refinada y canela de Ceilán."
+                        data-precio="$45 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Donas" style="display:none;">
+                <img src="~/imagenes/Dona2.png" alt="Dona Chocolate Gold">
+                <h4>Chocolate Gold</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Dona2.png")"
+                        data-titulo="Chocolate Gold"
+                        data-mostrarprecio="true"
+                        data-descripcion="Ganache de chocolate semiamargo y lámina de oro."
+                        data-precio="$65 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Donas" style="display:none;">
+                <img src="~/imagenes/Dona3.png" alt="Dona Pistache Gourmet">
+                <h4>Pistache Gourmet</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Dona3.png")"
+                        data-titulo="Pistache Gourmet"
+                        data-mostrarprecio="true"
+                        data-descripcion="Glaseado de pistache real y trozos de fruto seco."
+                        data-precio="$75 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Donas" style="display:none;">
+                <img src="~/imagenes/Dona4.png" alt="Dona Fresa Romántica">
+                <h4>Fresa romantica</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Dona4.png")"
+                        data-titulo="Fresa romantica"
+                        data-mostrarprecio="true"
+                        data-descripcion="Chocolate rosa, fresas frescas y perlas de azúcar."
+                        data-precio="$70 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Donas" style="display:none;">
+                <img src="~/imagenes/Dona5.png" alt="Dona Tiramisú Special">
+                <h4>Tiramisu Special</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Dona5.png")"
+                        data-titulo="Tiramisu Special"
+                        data-mostrarprecio="true"
+                        data-descripcion="Relleno de crema de mascarpone y polvo de café."
+                        data-precio="$80 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Gelatinas" style="display:none;">
+                <img src="~/imagenes/Gcristal.png" alt="Gelatinas efecto cristal y fruta">
+                <h4>Gelatinas efecto cristal y fruta</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Gcristal.png")"
+                        data-titulo="Gelatinas efecto cristal y fruta"
+                        data-mostrarprecio="false"
+                        data-descripcion="Colección de gelatinas contemporáneas que combinan técnica y estética, incluyendo diseños transparentes con flores o frutas encapsuladas tipo cristal, gelatinas de leche con degradados suaves y detalles de fruta natural, además de moldes geométricos modernos. Ideales para eventos elegantes o propuestas gourmet.<div class='descripcion-precios'><strong>Precio aproximado:</strong></div><ul><li>$280 - $480 MXN dependiendo del tamaño y diseño</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Galletas" style="display:none;">
+                <img src="~/imagenes/GChunky.png" alt="Galletas Chunky y Minimal Style">
+                <h4>Galletas Chunky y Minimal Style</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/GChunky.png")"
+                        data-titulo="Galletas Chunky y Minimal Style"
+                        data-mostrarprecio="false"
+                        data-descripcion="Exhibición de galletas artesanales estilo Chunky y minimalista en Sweet Love. Incluye opciones como red velvet con centro de cheesecake, matcha con chocolate blanco, sándwiches de mantequilla con ganache y galletas clásicas de chispas y vainilla.<div class='descripcion-precios'><strong>Precios disponibles:</strong></div><ul><li>Galletas especiales: $35 MXN c/u</li><li>Sándwiches y tradicionales: $25 MXN c/u</li></ul>">
+                    Ver detalles
+                </button>
+            </div>
+
+
+            <div class="card producto-card producto" data-categoria="Galletas" style="display:none;">
+                <img src="~/imagenes/TartaletasM.png" alt="Tartaletas de manzanilla y miel">
+                <h4>Tartaletas de manzanilla y miel</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/TartaletasM.png")"
+                        data-titulo="Tartaletas de manzanilla y miel"
+                        data-descripcion="Una base de galleta de mantequilla con crema pastelera de manzanilla y un toque de miel orgánica."
+                        data-mostrarprecio="true"
+                        data-precio="$90 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Galletas" style="display:none;">
+                <img src="~/imagenes/GalletasR.png" alt="Galletas de romero y chocolate blanco">
+                <h4>Galletas de romero y chocolate blanco</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/GalletasR.png")"
+                        data-titulo="Galletas de romero y chocolate blanco"
+                        data-descripcion="Una combinación sofisticada que mezcla lo dulce con el aroma terroso del romero."
+                        data-mostrarprecio="true"
+                        data-precio="$50 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Brownies" style="display:none;">
+                <img src="~/imagenes/Bra1.png" alt="Brownie clásico fudgy">
+                <h4>Clasico fudgy</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Bra1.png")"
+                        data-titulo="Clasico fudgy"
+                        data-mostrarprecio="true"
+                        data-descripcion="Chocolate 70% cacao con una capa superior craquelada."
+                        data-precio="$55 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Brownies" style="display:none;">
+                <img src="~/imagenes/Bra2.png" alt="Brownie caramelo salado">
+                <h4>Caramelo salado</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Bra2.png")"
+                        data-titulo="Caramelo salado"
+                        data-mostrarprecio="true"
+                        data-descripcion="Con hilos de caramelo artesanal y un toque de sal de mar."
+                        data-precio="$65 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Brownies" style="display:none;">
+                <img src="~/imagenes/Bra3.png" alt="Brownie Red Velvet and Cream">
+                <h4>Red Velvet and Cream</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Bra3.png")"
+                        data-titulo="Red Velvet and Cream"
+                        data-mostrarprecio="true"
+                        data-descripcion="Base roja aterciopelada con remolinos de queso crema."
+                        data-precio="$70 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Brownies" style="display:none;">
+                <img src="~/imagenes/Braw4.png" alt="Brownie Pistache Gourmet">
+                <h4>Pistache Gourmet</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Braw4.png")"
+                        data-titulo="Pistache Gourmet"
+                        data-mostrarprecio="true"
+                        data-descripcion="Base de chocolate blanco y pistache tostado."
+                        data-precio="$85 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Brownies" style="display:none;">
+                <img src="~/imagenes/Braw5.png" alt="Brownie Death by Chocolate">
+                <h4>Death by Chocolate</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/Braw5.png")"
+                        data-titulo="Death by Chocolate"
+                        data-mostrarprecio="true"
+                        data-descripcion="Triple chocolate con trozos de chocolate amargo y leche."
+                        data-precio="$75 MXN c/u">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Regalos" style="display:none;">
+                <img src="~/imagenes/paqueteR.png" alt="Paquete de regalo The Sweet Box">
+                <h4>Paquete de regalo The Sweet Box</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/paqueteR.png")"
+                        data-titulo="Paquete de regalo The Sweet Box"
+                        data-descripcion="Caja de regalo que incluye una selección curada de 2 cupcakes gourmet y 4 galletas chunky de autor, empacada artesanalmente con detalles botánicos y lazo rústico."
+                        data-mostrarprecio="true"
+                        data-precio="$550.00 MXN">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Catering" style="display:none;">
+                <img src="~/imagenes/catering.png" alt="Catering dulce Petit Fours modernos">
+                <h4>Catering dulce Petit Fours modernos</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/catering.png")"
+                        data-titulo="Catering dulce Petit Fours modernos"
+                        data-descripcion="Vasos de postre tipo shooters con capas perfectamente definidas y contrastantes de panna cotta de coco sedosa y una gelée vibrante de mango fresco. Decorados con mango en cubos, menta y coco rallado."
+                        data-mostrarprecio="true"
+                        data-precio="$65.00 MXN por pieza">
+                    Ver detalles
+                </button>
+            </div>
+
+            <div class="card producto-card producto" data-categoria="Postres saludables" style="display:none;">
+                <img src="~/imagenes/TrufasP.png" alt="Trufas de proteína y dátiles">
+                <h4>Trufas de proteina y datiles</h4>
+                <button class="btn-detalles"
+                        data-imagen="@Url.Content("~/imagenes/TrufasP.png")"
+                        data-titulo="Trufas de proteina y datiles"
+                        data-descripcion="Endulzadas naturalmente y decoradas con polvos de superalimentos como matcha o betabel para dar colores vibrantes naturales."
+                        data-mostrarprecio="true"
+                        data-precio="$90 MXN caja con 4 trufas">
+                    Ver detalles
+                </button>
+            </div>
+
+        </div>
+    </main>
+</div>
+
+<div id="modalDetalle" class="modal">
+    <div class="modal-contenido">
+        <span class="cerrar" id="cerrarModal">&times;</span>
+
+        <div class="modal-layout">
+            <div class="modal-izquierda">
+                <img id="modalImagen" class="modal-img" src="" alt="Producto">
+
+                <div class="info-extra">
+                    <h3>Informacion adicional</h3>
+                    <ul id="modalInfoExtra">
+                        <li>Ingredientes de alta calidad.</li>
+                        <li>Hecho con amor.</li>
+                        <li>Entregas a domicilio.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="modal-derecha">
+                <h2 id="modalTitulo"></h2>
+
+                <div class="titulo-seccion">Descripcion</div>
+                <div id="modalDescripcion" class="texto-descripcion"></div>
+
+                <div class="titulo-seccion" id="tituloPrecio">Precio</div>
+                <div id="modalPrecio" class="precio-box"></div>
+
+                <div class="btn-whatsapp-box">
+                    <a id="btnWhatsApp" class="btn-whatsapp" href="#" target="_blank">
+                        <img class="icono-whatsapp" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+                        <span>Solicitar</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const categorias = document.querySelectorAll("#menuCategorias li");
+    const productos = document.querySelectorAll(".producto");
+    const tituloCategoria = document.getElementById("tituloCategoria");
+
+    const params = new URLSearchParams(window.location.search);
+    const categoriaUrl = params.get("categoria");
+
+    if (categoriaUrl) {
+        categorias.forEach(c => c.classList.remove("activo"));
+
+        categorias.forEach(c => {
+            if (c.getAttribute("data-categoria") === categoriaUrl) {
+                c.classList.add("activo");
+            }
+        });
+
+        tituloCategoria.textContent = categoriaUrl;
+
+        productos.forEach(p => {
+            if (p.getAttribute("data-categoria") === categoriaUrl) {
+                p.style.display = "block";
+            } else {
+                p.style.display = "none";
+            }
+        });
+    }
+
+    categorias.forEach(item => {
+        item.addEventListener("click", function () {
+            const categoria = this.getAttribute("data-categoria");
+
+            categorias.forEach(c => c.classList.remove("activo"));
+            this.classList.add("activo");
+
+            tituloCategoria.textContent = categoria;
+
+            productos.forEach(p => {
+                if (p.getAttribute("data-categoria") === categoria) {
+                    p.style.display = "block";
+                } else {
+                    p.style.display = "none";
+                }
+            });
+        });
+    });
+
+    const botonesDetalles = document.querySelectorAll(".btn-detalles");
+    const modal = document.getElementById("modalDetalle");
+    const cerrarModal = document.getElementById("cerrarModal");
+
+    const modalImagen = document.getElementById("modalImagen");
+    const modalTitulo = document.getElementById("modalTitulo");
+    const modalDescripcion = document.getElementById("modalDescripcion");
+    const modalPrecio = document.getElementById("modalPrecio");
+    const btnWhatsApp = document.getElementById("btnWhatsApp");
+    const tituloPrecio = document.getElementById("tituloPrecio");
+
+    botonesDetalles.forEach(boton => {
+        boton.addEventListener("click", function () {
+            const imagen = this.getAttribute("data-imagen");
+            const titulo = this.getAttribute("data-titulo");
+            const descripcion = this.getAttribute("data-descripcion");
+            const precio = this.getAttribute("data-precio");
+            const mostrarPrecio = this.getAttribute("data-mostrarprecio");
+
+            modalImagen.src = imagen;
+            modalTitulo.innerHTML = titulo;
+            modalDescripcion.innerHTML = descripcion;
+
+            if (mostrarPrecio === "true") {
+                tituloPrecio.style.display = "block";
+                modalPrecio.style.display = "block";
+                modalPrecio.innerHTML = precio;
+            } else {
+                if (precio && precio.trim() !== "") {
+                    tituloPrecio.style.display = "block";
+                    modalPrecio.style.display = "block";
+                    modalPrecio.innerHTML = precio;
+                } else {
+                    tituloPrecio.style.display = "none";
+                    modalPrecio.style.display = "none";
+                }
+            }
+
+            const numero = "528997543659";
+            const mensaje = "Hola, me interesa el producto: " + titulo;
+            btnWhatsApp.href = `https://wa.me/${numero}?text=${encodeURIComponent(mensaje)}`;
+
+            modal.style.display = "block";
+            document.body.classList.add("modal-abierto");
+        });
+    });
+
+    cerrarModal.addEventListener("click", function () {
+        modal.style.display = "none";
+        document.body.classList.remove("modal-abierto");
+    });
+
+    window.addEventListener("click", function (e) {
+        if (e.target === modal) {
+            modal.style.display = "none";
+            document.body.classList.remove("modal-abierto");
+        }
+    });
+</script>

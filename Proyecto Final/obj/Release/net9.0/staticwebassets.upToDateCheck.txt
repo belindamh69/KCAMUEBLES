@@ -1,0 +1,207 @@
+wwwroot\css\Especialidades.css
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\imagenes\banquete.jpg
+wwwroot\imagenes\Bra1.png
+wwwroot\imagenes\Bra2.png
+wwwroot\imagenes\Bra3.png
+wwwroot\imagenes\Braw4.png
+wwwroot\imagenes\Braw5.png
+wwwroot\imagenes\Brownies.png
+wwwroot\imagenes\categoria-brownies.png
+wwwroot\imagenes\categoria-donas.png
+wwwroot\imagenes\categoria-galletas.png
+wwwroot\imagenes\categoria-pastel.png
+wwwroot\imagenes\catering.png
+wwwroot\imagenes\ChocoFlan.png
+wwwroot\imagenes\cupcakes.png
+wwwroot\imagenes\Dona1.png
+wwwroot\imagenes\Dona2.png
+wwwroot\imagenes\Dona3.png
+wwwroot\imagenes\Dona4.png
+wwwroot\imagenes\Dona5.png
+wwwroot\imagenes\dospasteles.png
+wwwroot\imagenes\esp-corazon-clasico.png
+wwwroot\imagenes\esp-cumpleanos.png
+wwwroot\imagenes\esp-ferrero.png
+wwwroot\imagenes\esp-flores.png
+wwwroot\imagenes\esp-frutos.png
+wwwroot\imagenes\esp-pistache-gourmet.png
+wwwroot\imagenes\esp-redvelvet.png
+wwwroot\imagenes\esp-teamo-topper.png
+wwwroot\imagenes\esp-tres-chocolates.png
+wwwroot\imagenes\esp-vintage.png
+wwwroot\imagenes\facebook3.png
+wwwroot\imagenes\galletas.png
+wwwroot\imagenes\GalletasR.png
+wwwroot\imagenes\GChunky.png
+wwwroot\imagenes\Gcristal.png
+wwwroot\imagenes\gelatinas.png
+wwwroot\imagenes\icono-facebook.png
+wwwroot\imagenes\icono-instagram.png
+wwwroot\imagenes\icono-pedido.png
+wwwroot\imagenes\icono-tiktok.png
+wwwroot\imagenes\iconowhatssap.png
+wwwroot\imagenes\LogoAzalea.png
+wwwroot\imagenes\logosweetl.png
+wwwroot\imagenes\monocro.png
+wwwroot\imagenes\p3chocolates.jpeg
+wwwroot\imagenes\p3chocolates.png
+wwwroot\imagenes\paqueteR.png
+wwwroot\imagenes\pArtesanal.png
+wwwroot\imagenes\pastelconflores.png
+wwwroot\imagenes\pastelconfruta.jpeg
+wwwroot\imagenes\pastelconfruta.png
+wwwroot\imagenes\pastelcorazon.jpeg
+wwwroot\imagenes\pastelcorazon.png
+wwwroot\imagenes\pasteles.png
+wwwroot\imagenes\pastelfruta.png
+wwwroot\imagenes\PastelM.png
+wwwroot\imagenes\PastelZ.png
+wwwroot\imagenes\PatelEsp.png
+wwwroot\imagenes\PayQueso.png
+wwwroot\imagenes\Pchocolate.png
+wwwroot\imagenes\PClasico.png
+wwwroot\imagenes\pferrero.jpeg
+wwwroot\imagenes\pferrero.png
+wwwroot\imagenes\Pfresa.png
+wwwroot\imagenes\pfutos.jpeg
+wwwroot\imagenes\pfutos.png
+wwwroot\imagenes\ppistache.jpeg
+wwwroot\imagenes\ppistache.png
+wwwroot\imagenes\prosa3piso.jpeg
+wwwroot\imagenes\prosa3piso.png
+wwwroot\imagenes\pteamo.jpeg
+wwwroot\imagenes\pteamo.png
+wwwroot\imagenes\PtresLeches.png
+wwwroot\imagenes\PVai.png
+wwwroot\imagenes\redvelvet.jpeg
+wwwroot\imagenes\redvelvet.png
+wwwroot\imagenes\Romantica.png
+wwwroot\imagenes\TartaletasM.png
+wwwroot\imagenes\TrufasP.png
+wwwroot\imagenes\whatsapp-logo.png
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\css\Especialidades.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\css\site.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\favicon.ico
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\js\site.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\wwwroot\lib\jquery\LICENSE.txt

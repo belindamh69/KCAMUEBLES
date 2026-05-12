@@ -1,0 +1,196 @@
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.RazorAssemblyInfo.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.RazorAssemblyInfo.cs
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\appsettings.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.staticwebassets.runtime.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.exe
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.deps.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.runtimeconfig.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Debug\net9.0\Proyecto Final.pdb
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\scopedcss\bundle\Proyecto Final.styles.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\s8npdpavxl-fx3bsklach.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\ciwn2lb6hc-61n19gt1b8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\u4075t2jxs-xtxxf3hu2r.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\e8gioonfib-bqjiyaj88i.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\c6saxxati8-c2jlpeoesf.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\2edow0kn3k-erw9l3u2r3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\7cpqqvj1nl-aexeepp0ev.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\b1jasehcji-d7shbmvgxk.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\ie406e8ouw-ausgxo2sd3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\rlwpdnlgh3-k8d9w2qqmf.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\8u3a1lws6e-cosvhxvwiu.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\cciu7iv00v-ub07r2b239.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\381j5zlh9i-fvhpjtyr6v.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\bk1jp6duh9-b7pk76d08c.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\kky6f78c6a-fsbi9cje9m.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\vee04rfadk-rzd6atqjts.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\20rar0brot-ee0r1s7dh0.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\qlot3w0zao-dxx9fxp4il.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\v7846dg95j-jd9uben2k1.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\7suqf78kt0-khv3u5hwcm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\h3rser9p9a-r4e9w2rdcm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\nguorb57qx-lcd1t2u6c8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\gz232y1a7z-c2oey78nd0.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\xm3xh62sae-tdbxkamptv.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\9u2psb5t8c-j5mq2jizvt.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\twem3zm2i0-06098lyss8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\hywe3r6b6s-nvvlpmu67g.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\lb2mwhb86w-s35ty4nyc5.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\nz83hjaq4l-pj5nd1wqec.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\geapr38ir1-46ein0sx1k.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\irxk592nc2-v0zj4ognzu.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\worgptswqo-37tfw0ft22.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\iew1yws6q3-hrwsygsryq.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\xb3cd7fnwb-pk9g2wxc8p.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\uyw3pet8wc-ft3s53vfgj.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\gfm03mi41b-6cfz1n2cew.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\rvm6hi4xrx-6pdc2jztkx.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\d0ql1fak5x-493y06b0oq.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\g9tgo6dn5t-iovd86k7lj.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\j90pfebzkl-vr1egmr9el.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\2s6wb5q0rn-kbrnm935zg.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\765q8oswk0-jj8uyg4cgr.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\2k2nijb0pb-y7v9cxd14o.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\guaiwmie4y-notf2xhcfb.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\w5ufxdor34-h1s4sie4z3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\bswlc0dgj5-63fj8s7r0e.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\km9tirb6n1-0j3bgjxly4.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\4fhtatep0l-47otxtyo56.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\bvs4psf9t4-4v8eqarkd7.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\ep9s5cs4tr-356vix0kms.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\e9zk2enntl-83jwlth58m.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\xra5b0jpo3-mrlpezrjn3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\8punw3m9ui-lzl9nlhx6b.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\skgrg157af-ag7o75518u.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\fwzg59yhgh-x0q3zqp4vz.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\9htexhrcyg-0i3buxo5is.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\5d71ohhvgh-o1o13a6vjx.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\9q3zbvwsyz-ttgo8qnofa.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\ya0bg7q2lv-2z0ns9nrw6.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\246cwt3m6u-muycvpuwrr.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\frnqoipays-87fc7y1x7t.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\as5q3ntufc-mlv21k5csn.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\42act6mmdc-cphqxg39jm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\d2s8mdrsxe-cphqxg39jm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\refint\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.pdb
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\Proyecto Final.genruntimeconfig.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\ref\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Debug\net9.0\compressed\zdy1zm0sc7-2wwsq9ycpl.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\appsettings.Development.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\appsettings.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.staticwebassets.runtime.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.staticwebassets.endpoints.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.exe
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.deps.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.runtimeconfig.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net9.0\Proyecto Final.pdb
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.AssemblyInfoInputs.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.AssemblyInfo.cs
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.csproj.CoreCompileInputs.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.RazorAssemblyInfo.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.RazorAssemblyInfo.cs
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\scopedcss\bundle\Proyecto Final.styles.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\u3a2ej9emj-{0}-fx3bsklach-fx3bsklach.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\x0amd4k4jo-{0}-2wwsq9ycpl-2wwsq9ycpl.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\jao663u5hd-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\mu7xtnqrrh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\imy32fvwqm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\7ktm53jbcu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\pfygm7gf7u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\jczq3bxvdo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\wzds3afy0w-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\d061hzs4zk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\ukda0rfpog-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\iasropn0u0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\j7qm585x9a-{0}-ub07r2b239-ub07r2b239.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\jxytdczmek-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\fvff5vx5s7-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\0yjji8e3ys-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\cw3i3wxw4a-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\54uh7jot2b-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\s2kkgd4anf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\nar77x4244-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\i9vk9clxj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\8hi4w6f1wo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\nfzp6dxp8u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\trkilxn3x3-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\6gj3kc6cat-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\317clhnr3m-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\h7cxx52ddh-{0}-06098lyss8-06098lyss8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\uln7frnixm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\tzhgfnuc48-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\bjod17wcej-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\yrcft5ffy0-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\begfbj6iav-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\4a8vt6vwcj-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\bkg6zry2dn-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\hkqu08gptd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\hfr85hxcge-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\co8szmuedt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\pzbuz7odkg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\5w6x5rpqiq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\jkx7lr7brm-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\5in6eb9a51-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\8hbwv9gu0p-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\zxrwkutdkx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\cuioc02hs9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\58jbal53ut-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\0sdpfid3uu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\sqc29juo0z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\0ahr2x6zp8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\tjsd0h2lep-{0}-47otxtyo56-47otxtyo56.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\iqlufdhm9z-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\vrqvbmo5ij-{0}-356vix0kms-356vix0kms.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\ln4cpot5m1-{0}-83jwlth58m-83jwlth58m.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\anxg9og5oz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\piw5zgkp90-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\krc06z5lvq-{0}-ag7o75518u-ag7o75518u.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\ssv4d0qynq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\yq03aadvvu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\wjoqnpyvl4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\jdu5p4iswf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\p1zo4be8x8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\feakefvu4v-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\3b7e40gsxu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\leuzlanbym-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\cx5811gh7w-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\compressed\mqbb8n4r5f-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\staticwebassets.development.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\swae.build.ex.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\refint\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.pdb
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\Proyecto Final.genruntimeconfig.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net9.0\ref\Proyecto Final.dll

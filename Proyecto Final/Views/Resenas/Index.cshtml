@@ -1,0 +1,289 @@
+﻿
+@{
+    ViewData["Title"] = "Reseñas";
+}
+@model List<Proyecto_Final.Models.Resenas>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+<div class="container mt-5" style="max-width: 1250px;">
+
+    <!-- ENCABEZADO -->
+    <div class="header-tienda text-center">
+        <h1>Reseñas de Nuestros Clientes</h1>
+        <p>Comparte tu experiencia con KCAMUEBLES</p>
+    </div>
+
+    <!-- ⭐ PROMEDIO -->
+    <div class="rating-box p-4">
+
+        <!-- IZQUIERDA -->
+        <div class="rating-left">
+            <div class="rating-icon rating-icon-kca">
+                <i class="bi bi-star-fill"></i>
+            </div>
+
+            <div>
+                <h3>
+                    @Math.Round((double)(ViewBag.Promedio ?? 0), 1)
+
+                    @{
+                        double promedio = (double)(ViewBag.Promedio ?? 0);
+                        int fullStars = (int)Math.Floor(promedio);
+                        bool halfStar = (promedio - fullStars) >= 0.5;
+                    }
+
+                    @for (int i = 0; i < fullStars; i++)
+                    {
+                        <i class="bi bi-star-fill" class="icono-vino-inline"></i>
+                    }
+
+                    @if (halfStar)
+                    {
+                        <i class="bi bi-star-half" class="icono-vino-inline"></i>
+                    }
+
+                    @for (int i = fullStars + (halfStar ? 1 : 0); i < 5; i++)
+                    {
+                        <i class="bi bi-star" style="color:#ccc;"></i>
+                    }
+                </h3>
+
+                <p class="texto-descripcion">Basado en @ViewBag.Total reseñas</p>
+            </div>
+        </div>
+
+        <!-- DIVISOR -->
+        <div class="divider"></div>
+
+        <!-- DERECHA -->
+        <div class="rating-right">
+            <i class="bi bi-heart icono-vino-grande"></i>
+            <p>Tu opinión nos ayuda a seguir diseñando espacios cómodos, modernos y funcionales.</p>
+        </div>
+
+    </div>
+
+    <!-- MENSAJE -->
+    @if (TempData["Mensaje"] != null)
+    {
+        <div class="alert" style="background:#F1C8CB; border-radius:15px;">
+            @TempData["Mensaje"]
+        </div>
+    }
+
+    <!-- GRID -->
+    <div class="row g-4">
+
+        <!-- FORMULARIO -->
+        <div class="col-md-5">
+
+            <div class="card p-4">
+                <h4 class="text-center mb-4" style="font-family: 'Playfair Display', serif">Deja tu reseña</h4>
+
+                <form method="post">
+
+                    <div class="mb-2">
+                        <label>Nombre (opcional)</label>
+                        <input name="Nombre" class="form-control" />
+                    </div>
+
+                    <div class="mb-2">
+                        <label>Tipo de reseña</label>
+                        <select name="Tipo" class="form-control" onchange="toggleProducto(this.value)">
+                            <option value="General">General</option>
+                            <option value="Producto">Producto</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-2" id="productoDiv">
+                        <label>Producto</label>
+                        <select name="Producto" class="form-control">
+                            <option value="">Seleccione un producto...</option>
+                            <option value="Sofá Modular Escandinavo Nordik Modular">Sofá Modular Escandinavo “Nordik Modular”</option>
+                            <option value="Mesa de Centro Minimalista Oslo">Mesa de Centro Minimalista “Oslo”</option>
+                            <option value="Silla Ergonómica Moderna Stockholm">Silla Ergonómica Moderna “Stockholm”</option>
+                            <option value="Escritorio Modular Scandic Work">Escritorio Modular “Scandic Work”</option>
+                            <option value="Librero Multifuncional Cube Space">Librero Multifuncional “Cube Space”</option>
+                            <option value="Cama Minimalista Nord Dream">Cama Minimalista “Nord Dream”</option>
+                            <option value="Buró Moderno Light Oak">Buró Moderno “Light Oak”</option>
+                            <option value="Comedor Minimalista Urban Wood">Comedor Minimalista “Urban Wood”</option>
+                            <option value="Rack de TV Modular Vision Nordic">Rack de TV Modular “Vision Nordic”</option>
+                            <option value="Clóset Modular Smart Storage">Clóset Modular “Smart Storage”</option>
+                        </select>
+                    </div>
+
+                    <!-- ESTRELLAS -->
+                    <div class="mb-2">
+                        <label>Calificación</label>
+
+                        <div class="stars">
+                            <i class="bi bi-star-fill" onclick="setRating(1)"></i>
+                            <i class="bi bi-star-fill" onclick="setRating(2)"></i>
+                            <i class="bi bi-star-fill" onclick="setRating(3)"></i>
+                            <i class="bi bi-star-fill" onclick="setRating(4)"></i>
+                            <i class="bi bi-star-fill" onclick="setRating(5)"></i>
+                        </div>
+
+                        <small>Haz clic en una estrella para calificar</small>
+
+                        <input type="hidden" name="Calificacion" id="rating" value="0" />
+                    </div>
+
+                    <div class="mb-2">
+                        <label>Comentario</label>
+                        <textarea name="Comentario" class="form-control" rows="4"></textarea>
+                    </div>
+
+                    <button class="btn-enviar w-100" style="margin-top:15px;">
+                        <i class="bi bi-send"></i> Enviar Reseña
+                    </button>
+
+                </form>
+            </div>
+
+            <!-- WHATSAPP -->
+            <div class="card p-4 mt-3 d-flex justify-content-between align-items-center">
+
+                <div class="d-flex align-items-center gap-2">
+                    <i class="bi bi-box2-heart icono-vino-grande"></i><br />
+                    <div>
+                        <strong class="titulo-vino-card">¿Mueble personalizado?</strong><br />
+                        <small>Contáctanos por WhatsApp para cotizaciones y soluciones a medida.</small>
+                    </div>
+                </div>
+
+                <a href="https://wa.me/528991008827" target="_blank">
+                    <i class="bi bi-whatsapp icono-whatsapp-vino"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+        <!-- RESEÑAS -->
+        <div class="col-md-7">
+
+            <!-- FILTROS -->
+            <div class="d-flex gap-2 mb-3">
+
+                <a href="@Url.Action("Index")"
+                   class="btn-filtro @(ViewBag.Filtro == null ? "activo" : "")">Todas</a>
+
+                <a href="@Url.Action("Index", new { filtro = 5 })"
+                   class="btn-filtro @(ViewBag.Filtro == 5 ? "activo" : "")">5 ⭐</a>
+
+                <a href="@Url.Action("Index", new { filtro = 4 })"
+                   class="btn-filtro @(ViewBag.Filtro == 4 ? "activo" : "")">4 ⭐</a>
+
+                <a href="@Url.Action("Index", new { filtro = 3 })"
+                   class="btn-filtro @(ViewBag.Filtro == 3 ? "activo" : "")">3 ⭐ o menos</a>
+
+            </div>
+
+            <!-- SIN RESEÑAS -->
+            @if (Model.Count == 0)
+            {
+                <div class="review-card">
+                    <p>No hay reseñas aún. ¡Sé el primero en opinar!</p>
+                </div>
+            }
+
+            <!-- LISTA -->
+            @foreach (var r in Model)
+            {
+                <div class="review-card d-flex justify-content-between">
+
+                    <div class="d-flex gap-3">
+
+                        <div class="user-icon">
+                            <i class="bi bi-person-fill"></i>
+                        </div>
+
+                        <div>
+                            <strong>@r.Nombre</strong>
+
+                            <div>
+                                @for (int i = 0; i < r.Calificacion; i++)
+                                {
+                                    <i class="bi bi-star-fill" class="icono-vino-inline"></i>
+                                }
+
+                                @for (int i = r.Calificacion; i < 5; i++)
+                                {
+                                    <i class="bi bi-star" style="color:#ccc;"></i>
+                                }
+                            </div>
+
+                            @if (!string.IsNullOrEmpty(r.Producto))
+                            {
+                                <small><b>Producto:</b> @r.Producto</small>
+                            }
+
+                            <p>@r.Comentario</p>
+                        </div>
+                    </div>
+
+                    <div class="text-end">
+                        <small>@DateTime.Now.ToString("dd MMM yyyy")</small><br />
+
+                        <span class="badge tipo">
+                            @(string.IsNullOrEmpty(r.Producto) ? "General" : "Producto")
+                        </span>
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<script>
+    function setRating(rating) {
+        document.getElementById("rating").value = rating;
+
+        const stars = document.querySelectorAll('.stars i');
+
+        stars.forEach((star, index) => {
+            if (index < rating) {
+                star.classList.add('active');
+            } else {
+                star.classList.remove('active');
+            }
+        });
+    }
+
+    function toggleProducto(tipo) {
+        const div = document.getElementById("productoDiv");
+        const input = div.querySelector("select");
+
+        if (tipo === "Producto") {
+            div.style.display = "block";
+        } else {
+            div.style.display = "none";
+            input.value = "";
+        }
+    }
+
+    // VALIDACIÓN
+    document.querySelector("form").addEventListener("submit", function (e) {
+        const rating = document.getElementById("rating").value;
+
+        if (rating == 0) {
+            alert("Selecciona una calificación ⭐");
+            e.preventDefault();
+        }
+    });
+
+    document.addEventListener("DOMContentLoaded", () => {
+        toggleProducto("General");
+    });
+</script>
+
+
+
+

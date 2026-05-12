@@ -1,0 +1,98 @@
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\appsettings.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.staticwebassets.runtime.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.exe
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.deps.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.runtimeconfig.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\bin\Release\net9.0\Proyecto Final.pdb
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.AssemblyInfo.cs
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.RazorAssemblyInfo.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.RazorAssemblyInfo.cs
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\scopedcss\bundle\Proyecto Final.styles.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\s8npdpavxl-fx3bsklach.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\zdy1zm0sc7-2wwsq9ycpl.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\ciwn2lb6hc-61n19gt1b8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\u4075t2jxs-xtxxf3hu2r.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\e8gioonfib-bqjiyaj88i.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\c6saxxati8-c2jlpeoesf.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\2edow0kn3k-erw9l3u2r3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\7cpqqvj1nl-aexeepp0ev.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\b1jasehcji-d7shbmvgxk.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\ie406e8ouw-ausgxo2sd3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\rlwpdnlgh3-k8d9w2qqmf.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\8u3a1lws6e-cosvhxvwiu.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\cciu7iv00v-ub07r2b239.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\381j5zlh9i-fvhpjtyr6v.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\bk1jp6duh9-b7pk76d08c.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\kky6f78c6a-fsbi9cje9m.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\vee04rfadk-rzd6atqjts.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\20rar0brot-ee0r1s7dh0.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\qlot3w0zao-dxx9fxp4il.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\v7846dg95j-jd9uben2k1.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\7suqf78kt0-khv3u5hwcm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\h3rser9p9a-r4e9w2rdcm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\nguorb57qx-lcd1t2u6c8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\gz232y1a7z-c2oey78nd0.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\xm3xh62sae-tdbxkamptv.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\9u2psb5t8c-j5mq2jizvt.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\twem3zm2i0-06098lyss8.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\hywe3r6b6s-nvvlpmu67g.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\lb2mwhb86w-s35ty4nyc5.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\nz83hjaq4l-pj5nd1wqec.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\geapr38ir1-46ein0sx1k.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\irxk592nc2-v0zj4ognzu.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\worgptswqo-37tfw0ft22.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\iew1yws6q3-hrwsygsryq.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\xb3cd7fnwb-pk9g2wxc8p.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\uyw3pet8wc-ft3s53vfgj.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\gfm03mi41b-6cfz1n2cew.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\rvm6hi4xrx-6pdc2jztkx.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\d0ql1fak5x-493y06b0oq.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\g9tgo6dn5t-iovd86k7lj.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\j90pfebzkl-vr1egmr9el.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\2s6wb5q0rn-kbrnm935zg.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\765q8oswk0-jj8uyg4cgr.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\2k2nijb0pb-y7v9cxd14o.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\guaiwmie4y-notf2xhcfb.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\w5ufxdor34-h1s4sie4z3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\bswlc0dgj5-63fj8s7r0e.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\km9tirb6n1-0j3bgjxly4.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\4fhtatep0l-47otxtyo56.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\bvs4psf9t4-4v8eqarkd7.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\ep9s5cs4tr-356vix0kms.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\e9zk2enntl-83jwlth58m.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\xra5b0jpo3-mrlpezrjn3.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\8punw3m9ui-lzl9nlhx6b.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\skgrg157af-ag7o75518u.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\fwzg59yhgh-x0q3zqp4vz.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\9htexhrcyg-0i3buxo5is.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\5d71ohhvgh-o1o13a6vjx.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\9q3zbvwsyz-ttgo8qnofa.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\ya0bg7q2lv-2z0ns9nrw6.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\246cwt3m6u-muycvpuwrr.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\frnqoipays-87fc7y1x7t.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\as5q3ntufc-mlv21k5csn.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\42act6mmdc-cphqxg39jm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\compressed\d2s8mdrsxe-cphqxg39jm.gz
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\refint\Proyecto Final.dll
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.pdb
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\Proyecto Final.genruntimeconfig.cache
+C:\Users\Santos28\source\repos\Proyecto Final Diseño\Proyecto Final\obj\Release\net9.0\ref\Proyecto Final.dll

@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+@model List<Proyecto_Final.Models.Resenas>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+<section class="banner">
+    <div class="banner-texto">
+        <span class="etiqueta-suave">Muebles modulares</span>
+        <h1>KCAMUEBLES</h1>
+        <p class="frase-caligrafica">Tu espacio, tu estilo.</p>
+        <p>
+            Diseñamos muebles funcionales, modernos y elegantes para transformar hogares,
+            oficinas y espacios comerciales con personalidad.
+        </p>
+        <button class="boton" onclick="window.location.href='/Especialidades'">Ver Productos</button>
+    </div>
+
+    <div class="banner-img">
+        <img src="/imagenes/Sofamodular.png" alt="Sofá modular KCAMUEBLES" class="imagen-producto">
+    </div>
+</section>
+
+<section class="seccion-home">
+    <div class="seccion-encabezado">
+        <h2>Categorias para cada espacio</h2>
+        <p>Soluciones modulares pensadas para salas, recámaras, oficinas y áreas de almacenamiento.</p>
+    </div>
+
+    <div class="categorias-home categorias-home-elegante">
+        <article class="card categoria-card">
+            <img src="/imagenes/LibreroMultifuncional.png" alt="Librero multifuncional" class="imagen-producto">
+            <div class="categoria-card-body">
+                <h3>Salas</h3>
+                <button class="boton" onclick="window.location.href='/Especialidades'">Ver mas</button>
+            </div>
+        </article>
+
+        <article class="card categoria-card">
+            <img src="/imagenes/EscritorioModular.png" alt="Escritorio modular" class="imagen-producto">
+            <div class="categoria-card-body">
+                <h3>Oficina</h3>
+                <button class="boton" onclick="window.location.href='/Especialidades'">Ver mas</button>
+            </div>
+        </article>
+
+        <article class="card categoria-card">
+            <img src="/imagenes/CamaMinimalista.png" alt="Cama minimalista" class="imagen-producto">
+            <div class="categoria-card-body">
+                <h3>Recamaras</h3>
+                <button class="boton" onclick="window.location.href='/Especialidades'">Ver mas</button>
+            </div>
+        </article>
+
+        <article class="card categoria-card">
+            <img src="/imagenes/MesaCentroMinimalista.png" alt="Mesa de centro minimalista" class="imagen-producto">
+            <div class="categoria-card-body">
+                <h3>Organizacion</h3>
+                <button class="boton" onclick="window.location.href='/Especialidades'">Ver mas</button>
+            </div>
+        </article>
+    </div>
+</section>
+
+<section class="seccion-destacada">
+    <div class="destacada-imagen">
+        <img src="/imagenes/ClosetModular.png" alt="Clóset modular" class="imagen-producto">
+    </div>
+
+    <div class="destacada-texto">
+        <span class="etiqueta-suave">Diseño moderno</span>
+        <h2>Muebles que se adaptan a tu forma de vivir</h2>
+        <p>
+            En KCAMUEBLES combinamos diseño minimalista, materiales resistentes y soluciones prácticas
+            para crear ambientes cómodos, elegantes y bien organizados.
+        </p>
+        <button class="boton" onclick="window.location.href='/Especialidades'">Explorar productos</button>
+    </div>
+</section>
+
+<div class="reviews-home">
+    <h3 class="reviews-title">Reseñas de Clientes</h3>
+    <div class="container" style="max-width: 100%;">
+        <div class="row justify-content-center">
+            @if (Model != null && Model.Count > 0)
+            {
+                foreach (var r in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="review-home-card">
+                            <div class="icon-circle"><i class="bi bi-person-fill"></i></div>
+                            <p class="review-name">@r.Nombre</p>
+                            <div class="review-stars">
+                                @for (int i = 0; i < r.Calificacion; i++) { <i class="bi bi-star-fill star-active"></i> }
+                                @for (int i = r.Calificacion; i < 5; i++) { <i class="bi bi-star-fill star-inactive"></i> }
+                            </div>
+                            <p class="review-date">@r.Fecha.ToString("dd MMM yyyy")</p>
+                            <p class="review-text">@r.Comentario</p>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="text-center">Aún no hay reseñas.</p>
+            }
+        </div>
+        <div class="text-center mt-3"><a href="/Resenas" class="btn-ver-mas">Ver todas las reseñas</a></div>
+    </div>
+</div>

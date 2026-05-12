@@ -1,0 +1,404 @@
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\appsettings.Development.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\appsettings.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.runtime.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.endpoints.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.exe
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.deps.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.runtimeconfig.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\bin\Debug\net10.0\Proyecto Final.pdb
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfoInputs.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfo.cs
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.csproj.CoreCompileInputs.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cs
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\scopedcss\bundle\Proyecto Final.styles.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\jao663u5hd-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\mu7xtnqrrh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\imy32fvwqm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\7ktm53jbcu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\pfygm7gf7u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\jczq3bxvdo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\wzds3afy0w-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\d061hzs4zk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\ukda0rfpog-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\iasropn0u0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\j7qm585x9a-{0}-ub07r2b239-ub07r2b239.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\jxytdczmek-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\fvff5vx5s7-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\0yjji8e3ys-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\cw3i3wxw4a-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\54uh7jot2b-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\s2kkgd4anf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\nar77x4244-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\i9vk9clxj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\8hi4w6f1wo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\nfzp6dxp8u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\trkilxn3x3-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\6gj3kc6cat-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\317clhnr3m-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\h7cxx52ddh-{0}-06098lyss8-06098lyss8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\uln7frnixm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\tzhgfnuc48-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\bjod17wcej-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\yrcft5ffy0-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\begfbj6iav-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\4a8vt6vwcj-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\bkg6zry2dn-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\hkqu08gptd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\hfr85hxcge-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\co8szmuedt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\pzbuz7odkg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\5w6x5rpqiq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\jkx7lr7brm-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\5in6eb9a51-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\8hbwv9gu0p-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\zxrwkutdkx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\cuioc02hs9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\58jbal53ut-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\0sdpfid3uu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\sqc29juo0z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\0ahr2x6zp8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\tjsd0h2lep-{0}-47otxtyo56-47otxtyo56.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\iqlufdhm9z-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\vrqvbmo5ij-{0}-356vix0kms-356vix0kms.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\ln4cpot5m1-{0}-83jwlth58m-83jwlth58m.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\anxg9og5oz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\piw5zgkp90-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\krc06z5lvq-{0}-ag7o75518u-ag7o75518u.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\ssv4d0qynq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\yq03aadvvu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\wjoqnpyvl4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\jdu5p4iswf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\p1zo4be8x8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\feakefvu4v-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\3b7e40gsxu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\leuzlanbym-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\cx5811gh7w-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\mqbb8n4r5f-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\staticwebassets.development.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\swae.build.ex.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\refint\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.pdb
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\Proyecto Final.genruntimeconfig.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\ref\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\x0amd4k4jo-{0}-uiedo6w2y8-uiedo6w2y8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final\Proyecto Final\obj\Debug\net10.0\compressed\u3a2ej9emj-{0}-fx3bsklach-fx3bsklach.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\appsettings.Development.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\appsettings.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.runtime.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.endpoints.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.exe
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.deps.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.runtimeconfig.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\bin\Debug\net10.0\Proyecto Final.pdb
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfoInputs.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfo.cs
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.csproj.CoreCompileInputs.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cs
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\scopedcss\bundle\Proyecto Final.styles.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\u3a2ej9emj-{0}-fx3bsklach-fx3bsklach.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\jao663u5hd-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\mu7xtnqrrh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\imy32fvwqm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\7ktm53jbcu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\pfygm7gf7u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\jczq3bxvdo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\wzds3afy0w-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\d061hzs4zk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\ukda0rfpog-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\iasropn0u0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\j7qm585x9a-{0}-ub07r2b239-ub07r2b239.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\jxytdczmek-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\fvff5vx5s7-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\0yjji8e3ys-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\cw3i3wxw4a-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\54uh7jot2b-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\s2kkgd4anf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\nar77x4244-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\i9vk9clxj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\8hi4w6f1wo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\nfzp6dxp8u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\trkilxn3x3-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\6gj3kc6cat-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\317clhnr3m-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\h7cxx52ddh-{0}-06098lyss8-06098lyss8.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\uln7frnixm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\tzhgfnuc48-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\bjod17wcej-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\yrcft5ffy0-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\begfbj6iav-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\4a8vt6vwcj-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\bkg6zry2dn-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\hkqu08gptd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\hfr85hxcge-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\co8szmuedt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\pzbuz7odkg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\5w6x5rpqiq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\jkx7lr7brm-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\5in6eb9a51-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\8hbwv9gu0p-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\zxrwkutdkx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\cuioc02hs9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\58jbal53ut-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\0sdpfid3uu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\sqc29juo0z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\0ahr2x6zp8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\tjsd0h2lep-{0}-47otxtyo56-47otxtyo56.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\iqlufdhm9z-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\vrqvbmo5ij-{0}-356vix0kms-356vix0kms.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\ln4cpot5m1-{0}-83jwlth58m-83jwlth58m.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\anxg9og5oz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\piw5zgkp90-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\krc06z5lvq-{0}-ag7o75518u-ag7o75518u.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\ssv4d0qynq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\yq03aadvvu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\wjoqnpyvl4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\jdu5p4iswf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\p1zo4be8x8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\feakefvu4v-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\3b7e40gsxu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\leuzlanbym-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\cx5811gh7w-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\mqbb8n4r5f-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\staticwebassets.development.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\swae.build.ex.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\refint\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.pdb
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\Proyecto Final.genruntimeconfig.cache
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\ref\Proyecto Final.dll
+D:\Universidad AUT (BELINDA)\Sexto semestre\Arquitectura de equpios digitales\Pagina pasteleria\Proyecto Final Diseño\Proyecto Final\obj\Debug\net10.0\compressed\x0amd4k4jo-{0}-mz2o27zid6-mz2o27zid6.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\appsettings.Development.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\appsettings.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.runtime.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.staticwebassets.endpoints.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.exe
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.deps.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.runtimeconfig.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\bin\Debug\net10.0\Proyecto Final.pdb
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfoInputs.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.AssemblyInfo.cs
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.csproj.CoreCompileInputs.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.RazorAssemblyInfo.cs
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\scopedcss\bundle\Proyecto Final.styles.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\scopedcss\projectbundle\Proyecto Final.bundle.scp.css
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\u3a2ej9emj-{0}-fx3bsklach-fx3bsklach.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\jao663u5hd-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\mu7xtnqrrh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\imy32fvwqm-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\7ktm53jbcu-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\pfygm7gf7u-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\jczq3bxvdo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\wzds3afy0w-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\d061hzs4zk-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\ukda0rfpog-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\iasropn0u0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\j7qm585x9a-{0}-ub07r2b239-ub07r2b239.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\jxytdczmek-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\fvff5vx5s7-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\0yjji8e3ys-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\cw3i3wxw4a-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\54uh7jot2b-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\s2kkgd4anf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\nar77x4244-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\i9vk9clxj6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\8hi4w6f1wo-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\nfzp6dxp8u-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\trkilxn3x3-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\6gj3kc6cat-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\317clhnr3m-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\h7cxx52ddh-{0}-06098lyss8-06098lyss8.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\uln7frnixm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\tzhgfnuc48-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\bjod17wcej-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\yrcft5ffy0-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\begfbj6iav-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\4a8vt6vwcj-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\bkg6zry2dn-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\hkqu08gptd-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\hfr85hxcge-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\co8szmuedt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\pzbuz7odkg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\5w6x5rpqiq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\jkx7lr7brm-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\5in6eb9a51-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\8hbwv9gu0p-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\zxrwkutdkx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\cuioc02hs9-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\58jbal53ut-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\0sdpfid3uu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\sqc29juo0z-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\0ahr2x6zp8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\tjsd0h2lep-{0}-47otxtyo56-47otxtyo56.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\iqlufdhm9z-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\vrqvbmo5ij-{0}-356vix0kms-356vix0kms.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\ln4cpot5m1-{0}-83jwlth58m-83jwlth58m.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\anxg9og5oz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\piw5zgkp90-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\krc06z5lvq-{0}-ag7o75518u-ag7o75518u.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\ssv4d0qynq-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\yq03aadvvu-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\wjoqnpyvl4-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\jdu5p4iswf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\p1zo4be8x8-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\feakefvu4v-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\3b7e40gsxu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\leuzlanbym-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\cx5811gh7w-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\mqbb8n4r5f-{0}-p9ulttxx3e-p9ulttxx3e.gz
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\staticwebassets.development.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\swae.build.ex.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\refint\Proyecto Final.dll
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.pdb
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\Proyecto Final.genruntimeconfig.cache
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\ref\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-final\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-elegante\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-polish\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-kca-final2\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-icons\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-json-reviews\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-email-config\Proyecto Final.pdb
+D:\Final\Proyecto Final Diseño_ADS\Proyecto Final\obj\Debug\net10.0\compressed\x0amd4k4jo-{0}-xa1wgmugof-xa1wgmugof.gz
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-html-email\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-belinda-email\Proyecto Final.pdb
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\appsettings.Development.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\appsettings.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.staticwebassets.runtime.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.staticwebassets.endpoints.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.exe
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.deps.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.runtimeconfig.json
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.dll
+C:\Users\52899\Documents\Codex\2026-05-11\files-mentioned-by-the-user-984e8a10\buildcheck-product-dropdown\Proyecto Final.pdb

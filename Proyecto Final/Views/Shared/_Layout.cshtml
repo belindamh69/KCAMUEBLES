@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - KCAMUEBLES</title>
+    <script type="importmap"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Great+Vibes&family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Proyecto_Final.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <img src="/imagenes/logo-kcamuebles-redondo.jpeg" alt="Logo KCAMUEBLES">
+            <div class="logo-texto">
+                <h2>KCAMUEBLES</h2>
+                <span>Tu espacio, tu estilo</span>
+            </div>
+        </div>
+
+        <nav class="menu">
+            <a href="/">Inicio</a>
+            <a asp-controller="Especialidades" asp-action="Index">Productos</a>
+            <a href="/Home/SobreNosotros">Sobre Nosotros</a>
+            <a href="/Resenas">Reseñas</a>
+            <a href="/Contacto">Contacto</a>
+        </nav>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+    <footer class="footer-sweet">
+        <div class="footer-superior">
+            <div class="footer-marca">
+                <h3>KCAMUEBLES</h3>
+                <p>Tu espacio, tu estilo. Muebles modulares modernos para hogares y oficinas.</p>
+            </div>
+
+            <div class="footer-redes">
+                <a href="https://instagram.com/" target="_blank" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.tiktok.com/" target="_blank" aria-label="TikTok"><i class="bi bi-tiktok"></i></a>
+                <a href="https://wa.me/528991008827" target="_blank" aria-label="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+            </div>
+        </div>
+
+        <div class="footer-linea"></div>
+
+        <div class="footer-inferior">
+            <div class="footer-copy"><p>KCAMUEBLES © 2026. Todos los derechos reservados.</p></div>
+            <div class="footer-credito">
+                <img src="/imagenes/LogoAzalea.png" alt="Logo Azalea" class="logo-azalea-footer">
+                <div><p>Creado por <strong>AZALEA</strong></p><span>"De una semilla de idea a un software que florece"</span></div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+
+
